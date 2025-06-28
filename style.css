@@ -1,0 +1,63 @@
+body{
+    background-color:bisque
+    ;}
+
+    .contain{
+        background-color: white;
+        padding: 20px;
+        margin: 200px;
+        border-radius: 30px;
+    }
+    .t1{
+        font-size: 45px;
+    }
+    .time{
+        background-color: rgb(235, 217, 220);
+        padding: 20px;
+        border-radius: 5px;
+    }
+    .t3{
+        color:  rgb(92, 12, 26);
+    }
+    .ingre{
+        color:  rgb(92, 12, 26);
+        font-size: 22px; 
+    }
+    .instruction{
+        color:  rgb(92, 12, 26);
+        font-size: 22px; 
+    }
+    .t4{
+        color:  rgb(92, 12, 26);
+        font-size: 22px; 
+    }
+    .n1{
+        color:  rgb(92, 12, 26);
+        font-size: 15px;
+        text-align: center;
+        margin-top: -35px; 
+    }
+    .n2{
+        color:  rgb(92, 12, 26);
+        font-size: 15px;
+        text-align: center;
+        margin-top: -35px;
+    }
+    .n3{
+        color:  rgb(92, 12, 26);
+        font-size: 15px;
+        text-align: center;
+        margin-top: -35px;
+    }
+    .n4{
+        color:  rgb(92, 12, 26);
+        font-size: 15px;
+        text-align: center;
+        margin-top: -35px;
+    }
+    @media(min-width:320px) {
+       .contain{
+        padding: 15px;
+        margin: 50px;
+       }
+    }
